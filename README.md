@@ -1,3 +1,10 @@
+<div align="center">
+  <a href="https://dash.plotly.com/project-maintenance">
+    <img src="https://dash.plotly.com/assets/images/maintained-by-plotly.png" width="400px" alt="Maintained by Plotly">
+  </a>
+</div>
+
+
 To use this script:
 1. Git pull the repository
 2. Create a `.env` file in your local environment that looks like the following:
